@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [University of Information Technoology, VNU-HCM](https://www.uit.edu.vn/)
 
-- 🌱 I’m currently learning **Artificial Intelligence, Computer Vision and Web Development**
+- 🌱 I’m currently learning **Artificial Intelligence, Computer Vision, Android and Web Development**
 
 - 📫 How to reach me **truong11062002@gmail.com**
 
