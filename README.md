@@ -5,8 +5,9 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence, Computer Vision, Android and Web Development**
 
-- 📫 How to reach me **truong11062002@gmail.com**
+- 📫 How to reach me **truong11062002@gmail.com** (Personal email) or **20522087@gm.uit.edu.vn** (Business email)
 
+- 👨‍💻 My research group: **<a href="https://uit-together.github.io/?fbclid=IwAR1va9U7n2wXFMybcU55gqFaFt0hCpWSLOl9QVCfLJpbAzzyk0KgfE6s4Ws">UIT-Together Research Group</a>**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/truong-nhat-nguyen-b943b6215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="truong nhat nguyen" height="30" width="40" /></a>
